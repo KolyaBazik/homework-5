@@ -1,0 +1,132 @@
+.moki {
+    font-size: 40px;
+    padding: 10px;
+    color: orange;
+    text-align: center;
+}
+.moki2 img {
+    width: calc(100% / 3);
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.imm{
+    display: inline-block;
+    width: 30%;
+    padding: 5px;
+}
+
+.iii{
+    width: 100%;
+}
+
+.i{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ib{
+    text-align: center;
+}
+.moki3 {
+    text-align: center;
+    font-size: 55px;
+    
+}
+
+.moki4 {
+    text-align: center;
+    font-size: 50px;
+}
+
+section {
+    background-image:url(image/6.jpg);
+    text-align: center;
+}
+
+.fage {
+    text-align: center;
+}
+
+.fage2 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+.fage3 {
+    min-height: 50px;
+    color: white;
+}
+
+.gg {
+    font-family: PTSansRegular, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #EA7200;
+    color: white;
+    padding: 5px 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 0;
+    border-bottom: inset 5px #CC6500;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+.icon {
+    text-align: center;
+    font-size: 60px;
+}
+
+.icon2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.stick1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.icon3 {
+    font-size: 30px;
+}
+
+.ivan{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.ivan:before{
+content: '';
+    display: block;
+    height: 2px;
+    width: 45%;
+    background: red;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%)
+}
+.ivan:after{
+    content: '';
+    display: block;
+    height: 2px;
+    width: 45%;
+    background: red;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+
+.ijj {
+    width: 50%;
+    display: inline-block;
+}
